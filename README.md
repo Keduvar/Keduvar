@@ -31,7 +31,7 @@
 <br>
 
 <a href="https://app.daily.dev/keduvar">
-    <img src="png/My-Octocat.png" width="350" alt="Даниил Мазуров's Dev Card"/>
+    <img align="left" src="png/My-Octocat.png" width="350" alt="Даниил Мазуров's Dev Card"/>
 </a>
 
 <div>
