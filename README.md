@@ -18,7 +18,7 @@
 <!----------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <div align="center">
-    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FKeduvar&label=VISITORS&labelColor=%232ccce4&countColor=%23000000"/>
+    <img src="https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FKeduvar&labelColor=%23d9e3f0&countColor=%23555555"/>
 </div>
 
 <br>
